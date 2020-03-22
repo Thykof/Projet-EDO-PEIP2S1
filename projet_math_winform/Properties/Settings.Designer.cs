@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace edo2.Properties
+namespace projet_math_winform.Properties
 {
 
 
